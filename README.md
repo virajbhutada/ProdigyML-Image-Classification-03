@@ -39,5 +39,5 @@ Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 - Matplotlib and Seaborn: Libraries for data visualization.
 - Jupyter Notebook: Interactive platform for running Python code and documenting the project.
 
-**Author:**
+# **Author:**
 # Viraj N. Bhutada
